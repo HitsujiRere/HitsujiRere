@@ -1,6 +1,6 @@
-> にゃーん 🐏
+> 🐏
 
-### [My Web Page](https://hitsujirere.github.io)
+### [My Web Page](https://hitsujirere.vercel.app)
 
 <!--
 **HitsujiRere/HitsujiRere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
